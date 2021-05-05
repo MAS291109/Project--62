@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(yellow, lime, skyblue);
+}
+
+#one,
+#two,
+#three,
+#four,
+#five,
+#six {
+    height: 300px;
+    width: 300px;
+}
+
+.first {
+    width: 500px;
+    height: 500px;
+}
+
+#myCarousel img {
+    width: 50px;
+    margin-top: 35px;
+}
+
+.carousel-inner {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+}
+#myCarousel img{
+    height: 350px;
+    
+}
