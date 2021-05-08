@@ -18,17 +18,13 @@ body {
     height: 500px;
 }
 
-#myCarousel img {
-    width: 50px;
-    margin-top: 35px;
-}
-
 .carousel-inner {
     margin-top: 15px;
     margin-bottom: 15px;
     color: white;
 }
-#myCarousel img{
+
+#myCarousel img {
     height: 350px;
-    
+    width: 100%;
 }
